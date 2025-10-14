@@ -13,7 +13,7 @@ public:
         
        
             
-           for(int j = i+1;j<nums.size();j++){
+        for(int j = i+1;j<nums.size();j++){
             if((nums[i]+nums[j])%2==rem){
                 int temp =0;
                  if(dp[rem][j]!=-1){
@@ -28,7 +28,8 @@ public:
            
 
         }
-        return dp[rem][i]=ans;
+        dp[rem][i]=ans;
+        return ans;
 
     }
     int maximumLength(vector<int>& nums) {
