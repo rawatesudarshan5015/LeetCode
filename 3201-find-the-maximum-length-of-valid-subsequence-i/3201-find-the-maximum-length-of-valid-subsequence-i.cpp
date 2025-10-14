@@ -20,7 +20,7 @@ public:
                     temp= dp[rem][j];
                 }else {
                     temp = solve(j,rem,nums,dp);
-                    // dp[rem][j]=temp;
+                    dp[rem][j]=temp;
                 }
                 ans = ans+ temp;
                 break;
