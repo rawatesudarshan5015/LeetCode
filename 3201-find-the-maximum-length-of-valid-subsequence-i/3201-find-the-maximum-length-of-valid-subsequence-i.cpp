@@ -11,13 +11,18 @@ public:
 
        int ans = 1;
         
-        if(dp[rem][i]!=-1){
-           return dp[rem][i];
-        }
+       
             
            for(int j = i+1;j<nums.size();j++){
             if((nums[i]+nums[j])%2==rem){
-                ans = ans+ solve(j,rem,nums,dp);
+                int temp =0;
+                 if(dp[rem][j]!=-1){
+                    temp= dp[rem][j];
+                }else {
+                    temp = solve(j,rem,nums,dp);
+                    // dp[rem][j]=temp;
+                }
+                ans = ans+ temp;
                 break;
             }
            
