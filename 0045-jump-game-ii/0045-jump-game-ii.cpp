@@ -1,18 +1,17 @@
 class Solution {
 public:
     int jump(vector<int>& nums) {
-        int currentmax = 0;
-        int jump=0;
-        int maxsofar=0;
-
+        int count = 0;
+        int maxjump = 0;
+        int curjump=0;
         for(int i=0;i<nums.size()-1;i++){
-            maxsofar = max(maxsofar,i+nums[i]);
+            maxjump = max(maxjump,i+nums[i]);
 
-            if(i==currentmax){
-                jump++;
-                currentmax = maxsofar;
+            if(i==curjump){
+                count++;
+                curjump = maxjump;
             }
         }
-        return jump;
+        return count;
     }
 };
