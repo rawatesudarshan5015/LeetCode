@@ -5,9 +5,9 @@ public:
         // int unique = 0;
         int ans = INT_MIN;
         int  i =0;
-        // vector<int>chars(26,0);
+        vector<int>mp(256,0);
         if(size<=1) return size;
-        unordered_map<char,int>mp;
+        // unordered_map<char,int>mp;
         for(int j=0;j<size;j++){
             
             
