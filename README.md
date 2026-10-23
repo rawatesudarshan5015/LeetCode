@@ -6,6 +6,7 @@ leetcode solution
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/rawatesudarshan5015/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2906-construct-product-matrix](https://github.com/rawatesudarshan5015/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -16,6 +17,7 @@ leetcode solution
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/rawatesudarshan5015/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2906-construct-product-matrix](https://github.com/rawatesudarshan5015/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 ## Hash Table
