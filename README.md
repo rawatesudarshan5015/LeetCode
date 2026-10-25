@@ -8,6 +8,7 @@ leetcode solution
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/rawatesudarshan5015/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2906-construct-product-matrix](https://github.com/rawatesudarshan5015/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 ## Matrix
@@ -18,6 +19,7 @@ leetcode solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/rawatesudarshan5015/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2906-construct-product-matrix](https://github.com/rawatesudarshan5015/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 ## Hash Table
@@ -28,6 +30,7 @@ leetcode solution
 | [0424-longest-repeating-character-replacement](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
