@@ -6,6 +6,7 @@ leetcode solution
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0724-find-pivot-index](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -71,4 +72,12 @@ leetcode solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/rawatesudarshan5015/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
